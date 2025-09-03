@@ -3,7 +3,9 @@
 ###
 
 <p align="left">My name is Vitor Spricigo Lima, and I'm a Software Developer from Brazil. <br> I've contributed to many interesting projects and am always eager to learn and do more.</p>
+
 ---
+
 <p align="left">
 Most of the projects I've worked on are listed in my repositories — feel free to take a look!</p>
 
